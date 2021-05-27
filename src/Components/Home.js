@@ -18,7 +18,7 @@ export default class Home extends Component{
                               <h1 class="wow fadeInUp" data-wow-delay="0.6s">Hello, I am <strong>Anisha</strong> currently based in Charlotte, North Carolina.</h1>
                               <p class="wow fadeInUp" data-wow-delay="0.9s">I'm a Software Developer. Passionate about coding, Technology Enthusiast. Looking for some interesting work in the areas of Front-End Development and Data Science. Willing to relocate and explore different domains.</p>
                               
-                              <a href="https://drive.google.com/file/d/1PO9z2xY1LDjOSq06ecRQe7rd02CSoKp6/view?usp=sharing" target="_blank" class="wow fadeInUp smoothScroll section-btn btn btn-success" data-wow-delay="1.4s">My Resume</a>
+                              <a href="https://drive.google.com/file/d/1NCNNXNUb9Qi5nemTVJU5JV1WAm0cs973/view?usp=sharing" target="_blank" class="wow fadeInUp smoothScroll section-btn btn btn-success" data-wow-delay="1.4s">My Resume</a>
                               
                          </div>
                     </div>
