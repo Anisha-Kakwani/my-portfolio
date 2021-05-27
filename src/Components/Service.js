@@ -11,8 +11,8 @@ export default class Service extends Component{
                     <div class="bg-yellow col-md-3 col-sm-6">
                             <div class="wow fadeInUp color-white service-thumb" data-wow-delay="0.8s">
                                 <i class="fa fa-html5"></i>
-                                    <h3>Front End Development</h3>
-                                    <p class="color-white">React JS, Angular JS, Polymer JS</p>
+                                    <h3>Software Development</h3>
+                                    <p class="color-white">React JS, Angular, Polymer JS, Node JS</p>
                                     <p class="color-white">Visual Studio Code, Webstorm</p>
                             </div>
                     </div>
@@ -35,11 +35,11 @@ export default class Service extends Component{
                             </div>
                     </div>
 
-                    <div class="bg-white col-md-3 col-sm-6">
+                    <div class="bg-light col-md-3 col-sm-6">
                             <div class="wow fadeInUp service-thumb" data-wow-delay="1.8s">
                                 <i class="fa fa-database"></i>
                                     <h3>Back End Processing</h3>
-                                    <p>SQL, Postgress, Oracle</p>
+                                    <p>SQL, Postgres, Oracle, Elastic Search</p>
                                     <p>Postman</p>
                             </div>
                     </div>

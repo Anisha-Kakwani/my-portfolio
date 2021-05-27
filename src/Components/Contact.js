@@ -22,6 +22,7 @@ export default class Contact extends Component{
                                     <li><a href="https://twitter.com/Anisha19338610" target="_blank" class="fa fa-twitter"></a></li>
                                     <li><a href="https://www.linkedin.com/in/anisha-kakwani-66452b113/" target="_blank" class="fa fa-linkedin"></a></li>
                                     <li><a href="https://github.com/Anisha-Kakwani" target="_blank" class="fa fa-github"></a></li>
+                                    <li><a href="https://public.tableau.com/profile/anisha6769#!/" target="_blank" class="fa fa-line-chart"></a></li>
                                 </ul>
                                 </div>
                                 <div class="wow fadeInUp footer-copyright" data-wow-delay="1.8s">

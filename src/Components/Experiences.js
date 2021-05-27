@@ -13,7 +13,7 @@ export default class Experiences extends Component{
                     <div className="col-md-6 col-sm-6">
                     <div className="color-white experience-thumb">
                         <div className="wow fadeInUp section-title" data-wow-delay="0.8s">
-                        <h1>My Experiences</h1>
+                        <h1>My Experience</h1>
                         <p className="color-white">Previous companies and my tasks</p>
                         </div>
                         <div className="wow fadeInUp color-white media" data-wow-delay="1.2s">
@@ -23,7 +23,7 @@ export default class Experiences extends Component{
                         <div className="media-body">
                             <h3 className="media-heading">Software Engineering Specialist <small>2017 Jun - 2020 Jun</small></h3>
                             <p className="color-white">General Electric Oil & Gas </p>
-                            <p className="color-white">Worked closely with the Engineering teams to develop & deploy front end based applications used in Oil Refineries & Distillation Units</p>
+                            <p className="color-white">Worked closely with the Engineering teams to develop & deploy software applications used in Oil Refineries & Distillation Units</p>
 
                         </div>
                         </div>

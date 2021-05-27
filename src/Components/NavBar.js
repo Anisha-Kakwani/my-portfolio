@@ -11,14 +11,14 @@ export default class NavBar extends Component{
                                 <span class="icon icon-bar"></span>
                                 <span class="icon icon-bar"></span>
                         </button>
-                        <a href="#" class="navbar-brand" style={{paddingLeft:"195px"}}>Anisha Kakwani</a>
+                        <a href="#" class="navbar-brand" style={{paddingLeft:"100px"}}>Anisha Kakwani</a>
                     </div>
 
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right">
                                 <li><a href="#home" class="smoothScroll">Home</a></li>
                                 <li><a href="#about" class="smoothScroll">About Me</a></li>
-                                <li><a href="#experience" class="smoothScroll">Experiences</a></li>
+                                <li><a href="#experience" class="smoothScroll">Experience</a></li>
                                 <li><a href="#education" class="smoothScroll">Education</a></li>
                                 <li><a href="#contact" class="smoothScroll">Contact</a></li>
                         </ul>

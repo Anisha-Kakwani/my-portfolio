@@ -176,6 +176,10 @@ footer {
   background: #ffffff;
 }
 
+.bg-light {
+  background: #f1e2d7;
+}
+
 .bg-dark {
   background: #161616;
 }
@@ -358,7 +362,7 @@ a:hover, a:active, a:focus {
 #home .home-img {
   background: url('../images/home-img.jpg') no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 20% 20%;
   width: 100%;
   height: 100vh;
 }
@@ -389,6 +393,10 @@ a:hover, a:active, a:focus {
 #about .about-thumb,
 #about .skill-thumb {
   padding: 22px 32px 32px 32px;
+}
+
+#about {
+  background: #f1e2d7;
 }
 
 #about .progress {
